@@ -1,4 +1,4 @@
 # shashwat-demo
-this is my first github repo
+This is my first GitHub repo
 <br>
 Author- Shashwat Niranjan
